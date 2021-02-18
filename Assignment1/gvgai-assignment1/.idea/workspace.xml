@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="251102f0-6751-4a10-a41f-8ad9d39076c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gvgai-assignment1" />
+  </component>
+  <component name="ProjectId" id="1i2XjxPRzq7lrbYVA4SEG36Xlp9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/ded55df71ec6476586a0cb6b798f0e04/373-coa20_hw2/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Assignment1">
+    <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1" />
+      <module name="gvgai-assignment1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gvgai-assignment1/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="gvgai-assignment1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gvgai-assignment1/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment1" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assignment1" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="251102f0-6751-4a10-a41f-8ad9d39076c6" name="Default Changelist" comment="" />
+      <created>1601106798683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601106798683</updated>
+      <workItem from="1601106801439" duration="60000" />
+      <workItem from="1601115426598" duration="354000" />
+      <workItem from="1601189608027" duration="163000" />
+      <workItem from="1601367881341" duration="176000" />
+      <workItem from="1601369204814" duration="525000" />
+      <workItem from="1601370928561" duration="2265000" />
+      <workItem from="1602059341071" duration="609000" />
+      <workItem from="1602297218876" duration="2267000" />
+      <workItem from="1602413607204" duration="2428000" />
+      <workItem from="1602505686079" duration="973000" />
+      <workItem from="1602586508546" duration="214000" />
+      <workItem from="1602592316974" duration="4593000" />
+      <workItem from="1602643340335" duration="4216000" />
+      <workItem from="1602673528679" duration="7790000" />
+      <workItem from="1602762182399" duration="6000" />
+      <workItem from="1602814090797" duration="7000" />
+      <workItem from="1602837677336" duration="34000" />
+      <workItem from="1602837728643" duration="3369000" />
+      <workItem from="1602847122280" duration="6000" />
+      <workItem from="1602864632022" duration="142000" />
+      <workItem from="1602947805106" duration="884000" />
+      <workItem from="1603023247824" duration="5296000" />
+      <workItem from="1603064370503" duration="23873000" />
+      <workItem from="1603117417751" duration="208000" />
+      <workItem from="1603117822828" duration="2698000" />
+      <workItem from="1603193530798" duration="12720000" />
+      <workItem from="1603237527024" duration="23358000" />
+      <workItem from="1603288783372" duration="802000" />
+      <workItem from="1603289909318" duration="1309000" />
+      <workItem from="1603337862142" duration="516000" />
+      <workItem from="1603338588458" duration="95000" />
+      <workItem from="1603360665010" duration="150000" />
+      <workItem from="1603376722158" duration="66000" />
+      <workItem from="1603434280757" duration="11000" />
+      <workItem from="1603596841395" duration="23067000" />
+      <workItem from="1603794271009" duration="134000" />
+      <workItem from="1603795829507" duration="157000" />
+      <workItem from="1604023954536" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" width="1086" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601369619959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" width="1086" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601369619959" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1603252000325">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1603252000325" />
+    <state x="422" y="100" key="FileChooserDialogImpl" timestamp="1603376782324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603376782324" />
+    <state width="1238" height="153" key="GridCell.Tab.0.bottom" timestamp="1603630406346">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603630406346" />
+    <state width="1238" height="153" key="GridCell.Tab.0.center" timestamp="1603630406346">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603630406346" />
+    <state width="1238" height="153" key="GridCell.Tab.0.left" timestamp="1603630406346">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603630406346" />
+    <state width="1238" height="153" key="GridCell.Tab.0.right" timestamp="1603630406346">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603630406346" />
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom" timestamp="1603280257148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603280257148" />
+    <state width="1238" height="204" key="GridCell.Tab.1.center" timestamp="1603280257148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1603280257148" />
+    <state width="1238" height="204" key="GridCell.Tab.1.left" timestamp="1603280257148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1603280257148" />
+    <state width="1238" height="204" key="GridCell.Tab.1.right" timestamp="1603280257148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1603280257148" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1601367939486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601367939486" />
+    <state x="336" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1604023953702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604023953702" />
+    <state x="371" y="125" key="extract.method.dialog" timestamp="1603096190241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="125" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1603096190241" />
+    <state x="300" y="153" key="run.anything.popup" timestamp="1603206893942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="300" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1603206893942" />
+    <state x="304" y="3" width="672" height="678" key="search.everywhere.popup" timestamp="1603607348027">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="304" y="3" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603607348027" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gvgai_assignment1$Test.ic" NAME="Test Coverage Results" MODIFIED="1601189688421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
