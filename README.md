@@ -3,7 +3,7 @@
 
 课程主页与源代码：http://www.lamda.nju.edu.cn/IntroAI/
 
-Assignment1、2、3已完成，4半完成，5未完成
+Assignment1、2、3已完成（必做），4半完成（选做），5未完成（选做）
 
 - Assignment1: 关于搜索，使用DFS、LimitedDFS、A*、MCTS算法玩Bait游戏
 - Assignment2: 关于博弈，使用博弈、MiniMax搜索、AlphaBeta剪枝玩黑白棋游戏
